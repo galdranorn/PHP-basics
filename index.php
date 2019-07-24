@@ -1,3 +1,7 @@
+<?php
+    session_start();
+?>
+
 <html>
     <head>
         <title>PHP basics</title>
