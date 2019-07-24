@@ -8,6 +8,7 @@
     <body>
         <?php
             include "./Form/form.php";
+            include "./Form/formReceived.php";
         ?>
     </body>
 
